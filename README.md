@@ -91,7 +91,7 @@ BRA draws inspiration from a variety of iconic projects from the world of comput
 
 The foundation for BRA is indeed BRA Recursive Acronym. This concept encapsulates innovation and forward-thinking software design. We couldn't have created BRA without BRA Recursive Acronym as an inspiration.
 
-### [Užovka 🇸🇰🐍](https://github.com/tzatko/Užovka)
+### [Užovka 🇸🇰🐍](https://github.com/tzatko/Uzovka)
 
 A groundbreaking Slovak programming dialect that asks: *What if [Ľudovít Štúr](https://en.wikipedia.org/wiki/%C4%BDudov%C3%ADt_%C5%A0t%C3%BAr) wrote Python?* Užovka elevates code into a cultural artifact, transforming syntax into an ode to Slovak heritage. By replacing keywords like `def` with `ustanoviť` and `print` with `vipísať`, Užovka ensures your code not only works but also embodies the beauty of a proud nation.
 
