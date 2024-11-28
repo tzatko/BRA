@@ -34,6 +34,9 @@ BRA incorporates cutting-edge security mechanisms designed to meet and exceed th
 - **Cross-Blockchain Compatibility** – Integrates with multiple blockchain platforms, ensuring interoperability across various ecosystems.
 - **Federated Learning for Privacy-Preserving AI** – Leverages federated learning to train AI models locally, maintaining data privacy.
 - **Ultra-Low Latency Communication** – Provides near-instantaneous data synchronization across global deployments.
+- **Native Support for IPoAC** – Implements IPoAC protocols ([RFC 1149](https://datatracker.ietf.org/doc/html/rfc1149), [RFC 2549](https://datatracker.ietf.org/doc/html/rfc2549), and [RFC 6214](https://datatracker.ietf.org/doc/html/rfc6214)), providing innovative approaches to data transmission to ensure connectivity in challenging and remote environments where traditional networking infrastructure is unavailable.
+
+
 
 ## ⚙️ Intelligent Automation
 
@@ -170,6 +173,9 @@ A leading enterprise application software provider that inspires BRA's commitmen
 ## 🙏 Credits
 
 Special thanks to **vid512** for the original idea in 2005.
+
+In memoriam to **Benoit B. Mandelbrot** for his never-ending passion, ever-deepening insights, and boundless inspiration. His legacy continues to guide us.
+
 
 ## ⚠️ Disclaimer
 
